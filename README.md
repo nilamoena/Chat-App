@@ -2,8 +2,8 @@
 Homework 3 - Chat with Firebase Cloud Messaging
 
 # Source Code
-API Repo https://github.com/nilamoena/Chat-App-API
-app https://github.com/nilamoena/Chat-App
+- API Repo https://github.com/nilamoena/Chat-App-API
+- App https://github.com/nilamoena/Chat-App
 
 # Members
 - Afny (1313628001)
