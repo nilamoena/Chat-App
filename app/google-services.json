@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "677691362858",
+    "project_id": "chat-app-kotlin-2c9de",
+    "storage_bucket": "chat-app-kotlin-2c9de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677691362858:android:81b858448004f433e6bd53",
+        "android_client_info": {
+          "package_name": "com.nilatilmoena.chatme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677691362858-ghd0u3ir9tgkf93jd8d393f5rqoomml8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nilatilmoena.chatme",
+            "certificate_hash": "3b52adc79f69723d964cfac68c968914fbba778e"
+          }
+        },
+        {
+          "client_id": "677691362858-2pmlelbfflo3919u12e9hapasro0u4d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvxQqPizmoZQxRwkwTGaJTWfImUxHgOks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677691362858-2pmlelbfflo3919u12e9hapasro0u4d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

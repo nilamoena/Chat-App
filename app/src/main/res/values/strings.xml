@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="message">message</string>
+    <string name="time">time</string>
+    <string name="hint">Message...</string>
+    <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+</resources>
